@@ -2,10 +2,18 @@ html {
     color: lightpink;
 }
 
+/*
+body {
+    color: lightpink;
+    background-color: honeydew
+}
+*/
+
 h1 {
     color : indigo;
 }
 
 p {
-    color : coral;
+    color : chocolate;
+    background-color: cornsilk
 }
