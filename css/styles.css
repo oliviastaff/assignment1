@@ -1,6 +1,8 @@
+/*
 html {
     color: lightpink;
 }
+*/
 
 /*
 body {
@@ -8,12 +10,22 @@ body {
     background-color: honeydew
 }
 */
+/*
 
 h1 {
     color : indigo;
 }
+*/
+.dogs {
+    color: plum;
+    background-color: palevioletred
+}
+.test {
+    color: pink;
+}
 
+/*
 p {
     color : chocolate;
     background-color: cornsilk
-}
+}*/
