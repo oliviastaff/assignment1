@@ -1,32 +1,21 @@
-/*
-html {
-    color: lightpink;
-}
-*/
 
-/*
+html {
+    color: hotpink;
+}
+
 body {
     color: lightpink;
-    background-color: honeydew
+    background-color: gainsboro
 }
-*/
-/*
 
 h1 {
-    color : indigo;
-}
-*/
-.dogs {
-    color: plum;
-    font-size: 24pt;
-    background-color: palevioletred
-}
-.test {
-    color: pink;
+    color : deeppink;
 }
 
-/*
+a { color: lightcoral
+}
+
 p {
-    color : chocolate;
-    background-color: cornsilk
-}*/
+    color : hotpink;
+    background-color: whitesmoke
+}
